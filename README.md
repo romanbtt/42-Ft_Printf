@@ -8,7 +8,7 @@ It is able to manage any combination of the following flags: **-0.\*** and minim
 width with all conversions.
 
 ## Compilation
-make
+`make`
 
 ## Linking
-gcc -L. -lprintf main.c
+`gcc -L. -lftprintf main.c`
