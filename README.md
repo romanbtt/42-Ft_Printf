@@ -14,6 +14,17 @@ The programm is able to reprodruce the following conversions: **cspdiuxX%**
 It is able to manage any combination of the following flags: **-0.\*** and minimum field
 width with all conversions.
 
+| Conversion | Description					|
+|------------|------------------------------|
+| **c**		 | Character	|
+| **s**		 | String		|
+| **p**		 | Pointer		|
+| **d**		 | Decimal signed integer			|
+| **i**		 | Decimal signed integer			|
+| **x**		 | Hex integer (lowercase)	|
+| **X**		 | Hex integer (uppercase)	|
+| **%**		 |  %. No argument expected			|
+
 ## Compilation
 `make`
 
