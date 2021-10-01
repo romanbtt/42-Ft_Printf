@@ -2,7 +2,7 @@
 
 This project consists of rewriting fews capabilities of the function printf.
 
-The programm is able to reprodruce the following conversions: **cspdiuxX%**
+The program is able to reprodruce the following conversions: **cspdiuxX%**
 
 | Flag  | Description														 |
 |-------|--------------------------------------------------------------------|
